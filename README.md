@@ -28,6 +28,5 @@ Sou apaixonado por tecnologia, desenvolvimento de software e por resolver proble
 
 ### 📫 Conecte-se comigo
 - GitHub: [@MAIKOTS](https://github.com/MAIKOTS)
-- LinkedIn: [Seu perfil](https://www.linkedin.com/in/seu-perfil)
-
+  
 > “A melhor forma de aprender programação é praticando, errando, melhorando e continuando.”
