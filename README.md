@@ -29,6 +29,6 @@ Sou apaixonado por tecnologia, desenvolvimento de software e por resolver proble
 ### 📫 Conecte-se comigo
 - GitHub: [@MAIKOTS](https://github.com/MAIKOTS)
 - Instagram: [MAIKOTS.OFC](https://www.instagram.com/maikots.ofc?stkn=MzF3dXhqaHJuc3Zo)
-- YouTube: [MAIKOTS](https://youtube.com/@maikotss?si=NTPRlt9WPHR3wk-8)
+- YouTube: [MAIKOTS](https://youtube.com/@maikotss)
   
-> “A melhor forma de aprender programação é praticando, errando, melhorando e continuando.”
+> "A melhor forma de aprender programação é praticando, errando, melhorando e continuando."
