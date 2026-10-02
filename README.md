@@ -1,16 +1,33 @@
-## Hi there 👋
+## Olá, eu sou MAIKOTS 👋
 
-<!--
-**MAIKOTS/MAIKOTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia, desenvolvimento de software e por resolver problemas com código. Estou em constante evolução, criando projetos, aprendendo novas ferramentas e buscando melhorar a cada dia.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 💻 Desenvolvedor em formação e evolução constante
+- 🌱 Estudando tecnologias modernas e boas práticas
+- 🔧 Interessado em desenvolvimento web, automações e projetos práticos
+- 🤝 Aberto a colaborações, networking e oportunidades de aprendizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Stack & ferramentas
+- JavaScript / TypeScript
+- React / Node.js
+- Python
+- Git / GitHub
+- HTML / CSS / SQL
+
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAIKOTS&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAIKOTS&layout=compact&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MAIKOTS&theme=dracula)
+
+### 📌 Objetivos
+- Construir projetos relevantes e bem estruturados
+- Aprender novas tecnologias e aplicar no dia a dia
+- Participar de comunidades e colaborar com outros devs
+
+### 📫 Conecte-se comigo
+- GitHub: [@MAIKOTS](https://github.com/MAIKOTS)
+- LinkedIn: [Seu perfil](https://www.linkedin.com/in/seu-perfil)
+
+> “A melhor forma de aprender programação é praticando, errando, melhorando e continuando.”
