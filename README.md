@@ -9,8 +9,8 @@ Sou apaixonado por tecnologia, desenvolvimento de software e por resolver proble
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MAIKOTS&theme=dracula)
 
 ### 📫 Conecte-se comigo
-- GitHub: [@MAIKOTS](https://github.com/MAIKOTS)
-- Instagram: [MAIKOTS.OFC](https://www.instagram.com/maikots.ofc?stkn=MzF3dXhqaHJuc3Zo)
-- YouTube: [MAIKOTS](https://www.youtube.com/@MAIKOTSS)
+- [Github](https://github.com/MAIKOTS)
+- [Instagram](https://www.instagram.com/maikots.ofc?stkn=MzF3dXhqaHJuc3Zo)
+- [YouTube](https://www.youtube.com/@MAIKOTSS)
   
 > "A melhor forma de aprender programação é praticando, errando, melhorando e continuando."
